@@ -1,12 +1,12 @@
 {
-  "name": "todo-pwa",
+  "name": "mvydp-todo",
   "version": "0.1.0",
   "description": "A Progressive ToDo List",
   "repository": {
     "type": "git",
     "url": "git@github.com:nico-martin/todo-pwa.git"
   },
-  "author": "Nico Martin",
+  "author": "Ernesto Ho",
   "license": "MIT",
   "scripts": {
     "dev": "yarn serve & yarn build",
